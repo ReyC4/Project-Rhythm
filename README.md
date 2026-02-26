@@ -1,4 +1,5 @@
 # MusicRhythmGame
+Fork from: https://github.com/DanSalib/MusicRhythmGame
 VIDEO DEMO: https://www.youtube.com/watch?v=vT1lgWvAhAE
 
 This is a fan remake of the music rhythm game Osu!
@@ -9,5 +10,3 @@ Click to the rhythm of your favourite songs!
 
 Make your own beat maps!
 ![a557e1024e23a264ca1bea42b5749c4a](https://user-images.githubusercontent.com/24818991/40291653-1c790120-5c94-11e8-9f8f-e2792fbbd39c.png)
-
-Fork from: https://github.com/DanSalib/MusicRhythmGame
