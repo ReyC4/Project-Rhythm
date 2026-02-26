@@ -1,5 +1,6 @@
 # MusicRhythmGame
-Fork from: https://github.com/DanSalib/MusicRhythmGame
+FORK FROM: https://github.com/DanSalib/MusicRhythmGame
+
 VIDEO DEMO: https://www.youtube.com/watch?v=vT1lgWvAhAE
 
 This is a fan remake of the music rhythm game Osu!
