@@ -1,5 +1,5 @@
 # MusicRhythmGame
-FORK FROM: https://github.com/DanSalib/MusicRhythmGame
+FROM: https://github.com/DanSalib/MusicRhythmGame
 
 VIDEO DEMO: https://www.youtube.com/watch?v=vT1lgWvAhAE
 
