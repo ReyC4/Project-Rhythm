@@ -9,7 +9,7 @@
 <br>
 
 ## 🕹️Play Game
-WebGl : https://rhythmexe.netlify.app/
+GDrive: https://drive.google.com/file/d/1KyDy0bWeLciRbUV_Oz1UKPqdzWhTb4Oq/view?usp=sharing
 
 <br>
 
